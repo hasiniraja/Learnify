@@ -72,10 +72,10 @@ git clone https://github.com/hasiniraja/Learnify.git
 cd Learnify
 npm install
 npm run dev
-## 📖 Usage
----
 ```
-##The platform is designed with a tailored experience for three primary user roles:
+Firebase configuration should be added using environment variables.
+## 📖 Usage
+The platform is designed with a tailored experience for three primary user roles:
 
 * **Students:** Explore curated learning resources, attempt interactive quizzes to test knowledge, and engage with AI tutors or peers for collaborative learning.
 * **Faculty:** Easily upload and organize study materials, create assignments, and track student progress.
